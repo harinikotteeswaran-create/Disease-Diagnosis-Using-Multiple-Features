@@ -21,7 +21,6 @@ The main objective of this project is to develop a machine learning classificati
 - Seaborn
 - Scikit-learn
 - Google Colab
-- Jupyter Notebook
 
 ## Dataset
 
@@ -151,7 +150,7 @@ Disease-Diagnosis-Using-Multiple-Features/
 ## How to Run the Project
 
 1. Clone or download this repository.
-2. Open `Disease Diagnosis Project.ipynb` using Jupyter Notebook or Google Colab.
+2. Open `Disease Diagnosis Project.ipynb` using  Google Colab.
 3. Make sure `Thyroid_Diff.csv` is available in the required location.
 4. Run the notebook cells sequentially.
 5. View the data analysis, visualizations, model training, and evaluation results.
